@@ -6,4 +6,4 @@ I take notes with https://canvas.apps.chrome/ and upload the images here.
 
 If you need more training material, I can really recommend the free online course by Johanna Peters on Hamburg Open Online University (HOOU): https://learn.hoou.de/course/view.php?id=489
 
-Tutorial 10 is held on Tuesdays and tutorial 10 on Mondays, times and rooms can be found on studip.
+Tutorial 32 is held on Tuesdays and tutorial 10 on Mondays, times and rooms can be found on studip.
